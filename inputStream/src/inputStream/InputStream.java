@@ -1,8 +1,10 @@
 package inputStream;
 import java.util.Scanner;
 
+// Upgrade this in different project to include output string stream
 
 public class InputStream {
+	
 	public static void main (String [] args) {
 		Scanner scnr = new Scanner(System.in);
 		Scanner inStringStream = null;

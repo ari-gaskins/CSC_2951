@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arikiri
+ *
+ */
+module textFileWrite {
+}
